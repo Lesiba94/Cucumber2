@@ -14,3 +14,4 @@ Feature: Demo web shop feature
       Examples:
       |Username|Password|
       | LMasekoameng@inspiredtesting.com | Lesi@6228                |
+
